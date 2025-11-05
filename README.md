@@ -1,32 +1,19 @@
 # 🕒 Analog Clock
 
-A simple and elegant **Analog Clock** built using **HTML**, **CSS**, and **JavaScript**.  
-It displays the current time dynamically and updates every second just like a real clock.
-
----
-
-## 🚀 Live Demo
-🔗 [Click Here to View Live Preview](https://dineshsinghdhami.com.np/analog-clock)
-
----
-
-## 📸 Screenshot
-![Analog Clock Screenshot](analog-clock.png)
+- A simple and elegant **Analog Clock** built using **HTML**, **CSS**, and **JavaScript**.  
 
 ---
 
 ## 💡 Features
-- Real-time updating clock hands 🕐  
-- Smooth animations using CSS transitions  
-- Fully responsive and clean UI  
-- Simple and beginner-friendly JavaScript logic  
+- Simple and beginner-friendly JavaScript logic.
+- Smooth animations using CSS transitions.
+- Real-time updating clock hands.  
+- Fully responsive and clean UI.
 
 ---
 
-## 🧩 Technologies Used
-- **HTML** 
-- **CSS** 
-- **JavaScript**
+## 📸 Screenshot
+![Analog Clock Screenshot](analog-clock.png)  
 
 ---
 
@@ -38,24 +25,32 @@ It displays the current time dynamically and updates every second just like a re
 
 ---
 
-## 📂 Project Structure
+## 🛠️ Technologies Used
 
-📁 analog-clock
+| Technology | Badge |
+|------------|-------|
+| HTML      | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) |
+| CSS       | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) |
+| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 
 
-┣ 📄 index.html
+---
 
-┣ 🎨 style.css
+## 📁 Project Structure
 
-┣ ⚙️ script.js
-
-┗ 🖼️ analog-clock.png
-
+```
+analog-clock/
+│
+├── index.html
+├── style.css
+├── script.js
+└── screenshot.png
+```
 ---
 
 ## 👨‍💻 Author
 **Dinesh Singh Dhami**  
 🌐 [Portfolio Website](https://dineshsinghdhami.com.np)  
-💼 [LinkedIn](https://www.linkedin.com/in/thecodingdhami)  
-🐙 [GitHub](https://github.com/thecodingdhami)  
-🐦 [Twitter (X)](https://x.com/thecodingdhami)  
-▶️ [YouTube](https://youtube.com/@thecodingdhami1)
+🐦 [Twitter (X)](https://x.com/dineshdhami001)  
+💼 [LinkedIn](https://www.linkedin.com/in/dineshsinghdhami1)  
+🐙 [GitHub](https://github.com/dineshsinghdhami)  
+▶️ [YouTube](https://www.youtube.com/@dineshsinghdhami1)
